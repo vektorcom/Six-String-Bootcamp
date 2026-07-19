@@ -1,10 +1,28 @@
 
 # 🎸 Six-String Bootcamp
-A web platform designed to streamline guitar education and manage premium learning subscriptions.
 
-## 🚀 Key Features
-* **Structured Learning Paths**: Step-by-step modules taking students from open chords to theory.
-* **Premium Subscription Engine**: Built-in flow optimized for a monthly student membership model.
-* **Responsive Layout**: Seamless performance across desktop and mobile screens.
+[Brief one-liner description]
 
-## ⚙️ Getting Started
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+[Your current features with more detail]
+
+## Getting Started
+
+### Prerequisites
+- Node.js 16+
+- [Other requirements]
+
+### Installation
+```bash
+git clone https://github.com/vektorcom/Six-String-Bootcamp.git
+cd Six-String-Bootcamp
+npm install
+npm start
