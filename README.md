@@ -1,8 +1,6 @@
 
 # 🎸 Six-String Bootcamp
 
-[Brief one-liner description]
-
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -12,7 +10,6 @@
 - [License](#license)
 
 ## Features
-[Your current features with more detail]
 
 ## Getting Started
 
