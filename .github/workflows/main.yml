@@ -939,5 +939,9 @@ print(f"📄 {len(app_code):,} characters, {app_code.count(chr(10)):,} lines") -
     mirror: # optional
     # The token used as Authorization header when fetching from the mirror
     mirror-token: # optional
+    git clone https://github.com/vektorcom/Six-String-Bootcamp.git
+cd Six-String-Bootcamp
+npm install
+npm start
 
 
